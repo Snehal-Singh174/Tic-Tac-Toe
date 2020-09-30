@@ -149,6 +149,7 @@ plyr_2=[]
 
 root=Tk()
 root.title("Welcome to The TIC-TAC-TOE dev by Snehal-Singh")
+root.wm_iconbitmap("tic-tac-toe_39453.ico")
 
 l1=Label(root,text="Player 1 : X",font="times 15")
 l1.grid(row=0,column=0)
